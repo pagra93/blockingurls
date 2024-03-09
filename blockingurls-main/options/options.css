@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+
+#blocking-periods {
+    margin-bottom: 20px;
+}
+
+.blocking-period {
+    margin-bottom: 10px;
+}
+
+#blocked-urls {
+    width: 100%;
+    height: 100px;
+}
